@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# ucf
-Read Me
-=======
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
@@ -168,4 +164,3 @@ You are required to submit the following for review:
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
->>>>>>> 6a899bcab9664623258bb3821847f3c2b8087598
